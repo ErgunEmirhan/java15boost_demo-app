@@ -28,7 +28,7 @@ function GameBall(ahmetAmcaNasilsin: IGameBallProps) {
             return 'rgb(15,99,253)' // mavi
         return 'rgb(255,185,11)' // sarı
     }
-    
+    console.log('game ball render');
   return (
         <>
             {

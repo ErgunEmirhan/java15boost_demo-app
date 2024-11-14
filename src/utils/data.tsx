@@ -41,3 +41,8 @@ export const dataProductList = [
     },
     
 ];
+
+const name = ()=>{
+    return 'Muhammet';
+}
+export default name;
